@@ -22,3 +22,8 @@ for longitud in range(1, len(password) + 1):
             break
     if encontrada:
         break
+    
+    
+
+    
+    
