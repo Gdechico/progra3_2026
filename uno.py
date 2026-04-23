@@ -1,2 +1,4 @@
 mensaje = "Hola mundo"
-print(mensaje)
+repe = 10
+for _ in range(repe):
+    print(mensaje)
