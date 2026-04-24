@@ -1,4 +1,6 @@
-void setup () {
+// This is an Arduino sketch
+
+void setup() {
     pinMode(13, OUTPUT);
 }
 
